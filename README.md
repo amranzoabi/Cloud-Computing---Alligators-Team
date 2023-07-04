@@ -2,7 +2,7 @@
 <h3>To run the program perform the following steps:</h3>
 <ol>
   <li>Download the 'CloudRacerFiles.zip' file from the repoistory</li>
-  <li>Upload all the files within the zip file to your Google Drive under the directory Colab Notebooks/CloudRacer</li>
+  <li>Upload all the files within the zip file to your Google Drive under the directory 'Colab Notebooks/CloudRacer'</li>
   <li>Open CloudRacer.ipynb from the repository > Click 'Open in Colab'</li>
   <li>From toolbar on top (in Google Colab) select Runtime > Run all</li>
   <li>Connect your Google Drive when the popup window requests it</li>
