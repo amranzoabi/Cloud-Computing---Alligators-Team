@@ -6,7 +6,7 @@
   <li>Open CloudRacer.ipynb from the repository > Click 'Open in Colab'</li>
   <li>From toolbar on top (in Google Colab) select Runtime > Run all</li>
   <li>Connect your Google Drive when the popup window requests it</li>
-  <li>To log into the application as a player insert {username:'player', password:'123'}<br>To log in as an admin insert {username:'admin', password:'123456'}</li>
+  <li>To log into the application as a player insert {username:'player', password:'123'}<br>To log in as an admin insert {username:'admin', password:'12345'}</li>
   <li>Enjoy!</li>
 </ol>
 
